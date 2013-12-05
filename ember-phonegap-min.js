@@ -1,0 +1,1 @@
+Ember.Application.reopenClass({phoneGapApp:{initialize:function(){this.bindEvents()},bindEvents:function(){document.addEventListener("deviceready",this.onDeviceReady,false)},onDeviceReady:function(){App.phoneGapApp.receivedEvent("deviceready")},receivedEvent:function(e){console.log("Received Event: "+e)}}})

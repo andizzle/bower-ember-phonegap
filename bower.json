@@ -1,0 +1,25 @@
+{
+  "name": "ember-phonegap",
+  "version": "0.0.1",
+  "authors": [
+    "Andy Zhang <andizzle.zhang@gmail.com>"
+  ],
+  "description": "ember phonegap app",
+  "main": "./ember-phonegap.min.js",
+  "keywords": [
+    "ember",
+    "phonegap"
+  ],
+  "dependencies": {
+    "ember": "~1.0.0",
+    "ember-data-shim": "1.0.0-beta.3"
+  },  
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
