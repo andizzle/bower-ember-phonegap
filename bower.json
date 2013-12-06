@@ -5,7 +5,7 @@
     "Andy Zhang <andizzle.zhang@gmail.com>"
   ],
   "description": "ember phonegap app",
-  "main": "./ember-phonegap-min.js",
+  "main": "./ember-phonegap.js",
   "keywords": [
     "ember",
     "phonegap"
